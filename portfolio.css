@@ -1,0 +1,24 @@
+h1{
+  color: #274896;
+font-family: 'PepsiCyrLatRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+td{
+font-family: 'CormorantUprightRegular';
+   font-weight: normal;
+   font-style: normal;
+  border-color: #2f2fac;
+}
+
+
+tr{
+color: #023eb6;
+  border-color: #5540f2;
+}
+
+thead{
+border-color:red ;
+  
+}
